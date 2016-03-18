@@ -1,5 +1,3 @@
-Example Readme
-
 # Framer Studio
 
 Examples have been made with Framer Studio. If you do not have Framer Studio,
